@@ -1,4 +1,4 @@
-# Diplom_1
+# Stellar Burgers Unit
 
 ## Task 1: Unit tests
 * Imagine: you need to test a program that helps you order a burger at Stellar Burgers. 
